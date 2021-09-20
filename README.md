@@ -1,3 +1,3 @@
 # Real-Time Bus Tracker
-## Exercise on MIT Bus Route Real-Time Tracking
+## Exercise on Bus Route Between MIT & Harvard Real-Time Tracking
 <img src="Real-Time Bus Tracker.JPG">
