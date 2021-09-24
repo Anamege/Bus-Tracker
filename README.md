@@ -1,3 +1,3 @@
-# Real-Time Tracker
-## Bus Route Between MIT & Harvard 
+# Real-Time Bus Tracker MIT <-> Harvard
+
 <img src="Real-Time Bus Tracker.JPG">
